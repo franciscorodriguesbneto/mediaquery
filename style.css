@@ -1,0 +1,103 @@
+*{
+ padding: 0;
+ margin: 0;
+ 
+}
+ 
+@media only screen and (min-width:400px) and (max-width:700px){
+ 
+
+    .logo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100px;
+       
+
+      
+        
+    }
+
+    .back {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgb(201, 167, 232);
+    }
+  
+    .principal {
+        background: white;
+        margin: 10px;
+        padding: 20px;
+    }
+      
+    
+
+    .titulo {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .login {
+        margin-bottom: 10px;
+        border-radius: 20px;
+        font-size: larger;
+        margin-bottom: 10px;
+    
+    }
+
+    input {
+        height: 30px;
+        width: 250px;
+        border-radius: 5px;
+        margin-bottom: 30px;
+        padding: 10px;
+        border: none;
+        background: rgb(246, 238, 238);
+
+    }
+
+    .senha {
+        margin-bottom: 10px;
+        font-size: larger;
+    }
+
+    .botao {
+        display: flex;
+        justify-content: center;
+        align-items: ;
+    }
+
+    
+
+    button {
+        width: 200px;
+        height: 50px;
+        background: rgb(240, 21, 156);
+        border-radius: 10px;
+        margin-top: 20px ;
+        border: none;
+        margin-bottom: 20px;
+        color: aliceblue;
+       
+    }
+
+    .imagem {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        gap: 20px;
+    }
+
+    .img {
+        align-items: center;
+    }
+
+    .texto {
+        text-align: center;
+    }
+
+    }   
+
+    
